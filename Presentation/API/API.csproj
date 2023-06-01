@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>be486b4a-108f-4429-817b-70411050b638</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.3" />
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.1" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.3">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Serilog" Version="3.0.0-dev-01926" />
+        <PackageReference Include="Serilog.AspNetCore" Version="6.1.1-dev-00295" />
+        <PackageReference Include="Serilog.Sinks.PostgreSQL" Version="2.3.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Core\Application\Application.csproj" />
+      <ProjectReference Include="..\..\Infrastructure\Infrastructure\Infrastructure.csproj" />
+      <ProjectReference Include="..\..\Infrastructure\Persistence\Persistence.csproj" />
+      <ProjectReference Include="..\..\Infrastructure\SignalR\SignalR.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot" />
+      <Folder Include="wwwroot\photo-images" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\resources\.DS_Store" />
+      <_ContentIncludedByDefault Remove="wwwroot\resources\product-images\audi-rs7-sportback-by-mansory-2-2-2-2-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resources\product-images\audi-rs7-sportback-by-mansory-2-2-2-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resources\product-images\audi-rs7-sportback-by-mansory-2-2-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resources\product-images\audi-rs7-sportback-by-mansory-2-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resources\product-images\audi-rs7-sportback-by-mansory-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resources\product-images\audi-rs7-sportback-by-mansory.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\product-images\audi-rs7-sportback-by-mansory-2-2-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\product-images\audi-rs7-sportback-by-mansory-2-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\product-images\audi-rs7-sportback-by-mansory-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\product-images\audi-rs7-sportback-by-mansory.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\.DS_Store" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\files\\audi-rs7-sportback-by-mansory-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\files\\audi-rs7-sportback-by-mansory.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\files\\OdemebilgiformuATAS56a6d2ba8d2021616-2.pdf" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\files\\OdemebilgiformuATAS56a6d2ba8d2021616.pdf" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\invoices\\audi-rs7-sportback-by-mansory-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\invoices\\audi-rs7-sportback-by-mansory-3.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\invoices\\audi-rs7-sportback-by-mansory.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\invoices\\OdemebilgiformuATAS56a6d2ba8d2021616-2.pdf" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\invoices\\OdemebilgiformuATAS56a6d2ba8d2021616-3.pdf" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\invoices\\OdemebilgiformuATAS56a6d2ba8d2021616.pdf" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\product-images\\OdemebilgiformuATAS56a6d2ba8d2021616.pdf" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\files\\" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\" />
+      <_ContentIncludedByDefault Remove="wwwroot\resource\-2" />
+    </ItemGroup>
+
+</Project>

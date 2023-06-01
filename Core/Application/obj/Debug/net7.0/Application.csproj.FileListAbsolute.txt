@@ -1,0 +1,15 @@
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/bin/Debug/net7.0/Application.deps.json
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/bin/Debug/net7.0/Application.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/bin/Debug/net7.0/Application.pdb
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/bin/Debug/net7.0/Domain.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/bin/Debug/net7.0/Domain.pdb
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/Application.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/Application.pdb
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Application/obj/Debug/net7.0/ref/Application.dll

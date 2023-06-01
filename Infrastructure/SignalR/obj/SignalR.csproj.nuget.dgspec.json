@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Infrastructure/SignalR/SignalR.csproj": {}
+  },
+  "projects": {
+    "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Application/Application.csproj",
+        "packagesPath": "/Users/ibrahimacar/.nuget/packages/",
+        "outputPath": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimacar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Domain/Domain.csproj": {
+                "projectPath": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/ibrahimacar/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Domain/Domain.csproj",
+        "packagesPath": "/Users/ibrahimacar/.nuget/packages/",
+        "outputPath": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimacar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/ibrahimacar/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Infrastructure/SignalR/SignalR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Infrastructure/SignalR/SignalR.csproj",
+        "projectName": "SignalR",
+        "projectPath": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Infrastructure/SignalR/SignalR.csproj",
+        "packagesPath": "/Users/ibrahimacar/.nuget/packages/",
+        "outputPath": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Infrastructure/SignalR/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimacar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Application/Application.csproj": {
+                "projectPath": "/Users/ibrahimacar/RiderProjects/NetCoreECommerceAPI/Core/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/ibrahimacar/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

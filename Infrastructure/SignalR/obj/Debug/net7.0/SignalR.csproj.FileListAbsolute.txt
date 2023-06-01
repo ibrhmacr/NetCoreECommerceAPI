@@ -1,0 +1,17 @@
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/bin/Debug/net7.0/SignalR.deps.json
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/bin/Debug/net7.0/SignalR.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/bin/Debug/net7.0/SignalR.pdb
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/bin/Debug/net7.0/Application.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/bin/Debug/net7.0/Domain.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/bin/Debug/net7.0/Application.pdb
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/bin/Debug/net7.0/Domain.pdb
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/SignalR.csproj.AssemblyReference.cache
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/SignalR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/SignalR.AssemblyInfoInputs.cache
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/SignalR.AssemblyInfo.cs
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/SignalR.csproj.CoreCompileInputs.cache
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/SignalR.csproj.CopyComplete
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/SignalR.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/refint/SignalR.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/SignalR.pdb
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Infrastructure/SignalR/obj/Debug/net7.0/ref/SignalR.dll

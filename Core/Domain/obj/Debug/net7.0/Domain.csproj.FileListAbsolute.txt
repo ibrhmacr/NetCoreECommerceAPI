@@ -1,0 +1,12 @@
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/bin/Debug/net7.0/Domain.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/obj/Debug/net7.0/Domain.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/ibrahimacar/RiderProjects/ECommerceGradProject/Core/Domain/obj/Debug/net7.0/ref/Domain.dll
